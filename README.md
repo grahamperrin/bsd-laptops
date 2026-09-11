@@ -65,6 +65,7 @@ Some related articles:
 Links:
 - [OpenBSD Laptops](https://jcs.org/openbsd-laptops)
 - [FreeBSD Foundation Project Laptop Repo](https://github.com/FreeBSDFoundation/proj-laptop)
+  - [FreeBSD Laptop Compatibility](https://freebsdfoundation.github.io/freebsd-laptop-testing/) – top laptops
 
 PS. If you're running NetBSD please contribute :)
 ![](https://www.netbsd.org/images/NetBSD-smaller-tb.png)
